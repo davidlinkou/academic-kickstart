@@ -1,6 +1,6 @@
 ---
 title: Chia-Teng Chang
-role: M.S., National Taiwan Unibersity
+role: M.S., National Taiwan University
 avatar_filename: 96214dbd-b118-427a-9739-29118a2d8f58.jpg
 organizations:
   - name: Stanford University
