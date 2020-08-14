@@ -5,7 +5,7 @@ date: 2020-08-14T08:48:45.335Z
 summary: Test about the summary...
 draft: false
 featured: false
-external_link: REPLACES LINK TO PROJECT PAGE
+external_link: https://ctchang.netlify.app/project/transgenesis/
 image:
   filename: featured.jpg
   focal_point: Smart
