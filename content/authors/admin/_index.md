@@ -1,7 +1,7 @@
 ---
 title: Chia-Teng Chang
 role: ""
-avatar_filename: 96214dbd-b118-427a-9739-29118a2d8f58.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: National Taiwan University
     url: ""
@@ -35,4 +35,3 @@ email: R06626005@g.ntu.edu.tw
 user_groups:
   - ""
 ---
-I study Animal Science and Technology at National Taiwan University for bachelor's and master's degress.
